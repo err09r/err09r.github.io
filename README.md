@@ -1,1 +1,3 @@
-# err09r.github.io
+# RIDSMak
+
+> 🚧 This website is currently under development.
