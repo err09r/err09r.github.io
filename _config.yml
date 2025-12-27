@@ -1,3 +1,7 @@
-theme: minima
 title: RIDSmak.pl - Homepage
 description: RIDSmak.pl - Homepage
+url: "https://ridsmak.pl"
+baseurl: ""
+plugins:
+  - jekyll-remote-theme
+remote_theme: songzivong/dark-minima
